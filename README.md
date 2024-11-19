@@ -4,7 +4,7 @@ Sejam todos Bem-vindos ao RAPQuizz! Este é um jogo interativo para testar seus 
 
 # 🚀 Como jogar?
 
-[Clique aqui para Jogar!](LInk do github pages aqui).
+Para Jogar [Clique aqui!](https://ailtu.github.io/RAPQuizz/).
 
 # 💻 Os Desenvolvedores
 
