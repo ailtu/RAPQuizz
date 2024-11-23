@@ -8,7 +8,8 @@ Para Jogar [Clique aqui!](https://ailtu.github.io/RAPQuizz/).
 
 # 💻 Os Desenvolvedores
 
-Alunos do 1° Período do curso Sistemas para Internet - Universidade Católica de Pernambuco
+Alunos do 1° Período do curso Sistemas para Internet - Universidade Católica de Pernambuco 
+
 Ailton Santos e Julia Muniz
 
 # 🛠️ Tecnologias usadas
