@@ -8,11 +8,12 @@ Para Jogar [Clique aqui!](https://ailtu.github.io/RAPQuizz/).
 
 # 💻 Os Desenvolvedores
 
-Apresentação aqui
+Alunos do 1° Período do curso Sistemas para Internet - Universidade Católica de Pernambuco
+Ailton Santos e Julia Muniz
 
 # 🛠️ Tecnologias usadas
 
-coisas que usamos aqui
+Para realizar o projeto utilizamos de HTML, CSS e Javascript e Github Pages.
 
 
 Divirta-se aprendendo mais sobre o rap! ✌️🎧
