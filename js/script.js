@@ -252,8 +252,6 @@ const questions = [
     question: "Quem é o rapper conhecido por seu estilo provocador e pelo álbum 'Yeezus'?",
     answers: [
       { text: "Kanye West", correct: true },
-      { text: "Jay-Z", correct: false },
-      { text: "Suge Knight", correct: false },
       { text: "Ye", correct: true },
     ],
   },
